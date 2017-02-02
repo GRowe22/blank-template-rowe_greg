@@ -1,6 +1,6 @@
 /*
 Theme Name: Greg Rowe Blank Theme
-Theme URI: 
+Theme URI:
 Author: Greg Rowe
 Description: Blank theme for WIE course
 Version: 0.1
@@ -11,5 +11,5 @@ Text Domain: greg_rowe_blank_template
 *{
 	color: #000000;
 	font-size: 14px;
-	line-height: 16px;
+	line-height: 1.5em;
 }

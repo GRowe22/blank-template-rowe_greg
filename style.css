@@ -1,0 +1,15 @@
+/*
+Theme Name: Greg's Blank Theme
+Theme URI: https://github.com/GRowe22/blank-template-rowe_greg
+Author: Greg Rowe
+Description: Blank theme for WIE course
+Version: 0.1
+License: Open
+Text Domain: greg_rowe_blank_template
+*/
+
+*{
+	color: #000000;
+	font-size: 14px;
+	line-height: 16px;
+}

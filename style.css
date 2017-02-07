@@ -8,6 +8,10 @@ License: Open
 Text Domain: greg_rowe_blank_template
 */
 
+
+@import url("css/normalize.css");
+@import url("css/skeleton.css");
+
 *{
 	color: #000000;
 	font-size: 14px;

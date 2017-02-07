@@ -9,7 +9,7 @@
 
 <body>
 
-    <h1>Blank WordPress Template</h1>
+    <h1>Greg Rowe Blank WordPress Template</h1>
     <p>This is my WordPress template.</p>
 
 </body>

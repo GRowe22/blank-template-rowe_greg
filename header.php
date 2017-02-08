@@ -12,7 +12,7 @@
     <div class="container"><!-- Begin Container Div-->
 <header class="row">
     <div class="twelve columns">
-        <h1>Greg Rowe Blank WordPress Template</h1>
-        <p>This is my WordPress template.</p>
+        <h1><?php bloginfo('name'); ?></h1>
+        <h2><?php bloginfo('description'); ?><h2>
     </div>
 </header>

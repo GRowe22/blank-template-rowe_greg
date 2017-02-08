@@ -3,8 +3,17 @@
 <!-- Begin Section Container -->
 <section class="row">
     <div class="twelve columns">
-        <h3>Section Header</h3>
-        <p>Section content goes here.</p>
+
+        <!-- BEGIN LOOP -->
+            <?php
+            if ( have_posts() ) {
+                while ( have_posts() ) {
+                    the_post();
+                } // end while
+            } // end if
+            ?>
+        <!-- END LOOP -->
+
     </div>
 </section>
 <!-- End Section Container -->

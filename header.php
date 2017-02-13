@@ -11,8 +11,8 @@
 <div class="container">
     <header class="row">
         <div class="nine columns">
-            <h1>Blank WordPress Template</h1>
-            <p>This is my WordPress template.</p>
+            <h1><a href="<?php $url = home_url('/'); echo $url; ?>"><?php bloginfo('name'); ?></a></h1>
+            <p><?php bloginfo('description'); ?></p>
         </div>
     <!-- Add Search Form -->
         <div class="three columns">

@@ -12,7 +12,7 @@
     <header class="row">
         <div class="nine columns">
             <h1><a href="<?php $url = home_url('/'); echo $url; ?>">
-                <?php bloginfo('name'); ?>
+                <h2><?php bloginfo('name'); ?></h2>
             </a></h1>
             <h2><?php bloginfo('description'); ?></h2>
         </div>

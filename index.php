@@ -14,7 +14,7 @@
                         the_post_thumbnail('thumbnail');
                     }
                     the_excerpt(); ?>
-
+                    <p><a href="<?php the_permalink(); ?>">Read More</a></p>
                 <?php
                 } // end while
             } // end if
